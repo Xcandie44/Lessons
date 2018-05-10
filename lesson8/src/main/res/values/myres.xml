@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="toptext">Верхний текст</string>
-    <string name="bottomtext">Нижний текст</string>
-    <string name="bottombutton">Нижняя кнопка</string>
-    <string name="topbutton">Верхняя кнопка</string>
-    <color name="topcolor">#336699</color>
-    <color name="bottomcolor">#339966</color>
-
 </resources>

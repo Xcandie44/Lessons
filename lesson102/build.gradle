@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.lesson10"
+        applicationId "com.example.lesson102"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
