@@ -31,7 +31,6 @@ public class MainActivity extends Activity {
     }
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
-        // TODO Auto-generated method stub
          switch (v.getId()) {
              case R.id.tvColor:
                  menu.add(0, MENU_COLOR_RED, 0, "Red");
