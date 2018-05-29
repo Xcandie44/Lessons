@@ -18,9 +18,16 @@
         </activity>
         <activity android:name="com.example.lesson21.Main2Activity">
             <intent-filter>
-                <action android:name="android.intent.action.VIEW">
-                </action>
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.example.intent.action.show"></action>
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main3Activity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="com.example.intent.action.show"></action>
             </intent-filter>
         </activity>
     </application>
+
 </manifest>
